@@ -10,7 +10,7 @@ An Internal CSGO SURF BOT CHEAT DESIGNED FOR CSGO SURFING
 
 **INSTALLATION**
 1. Open CSGO and run the executable file
-2. Method 2: Compile it yourself!
+or you can compile it yourself!
 
 **USAGE**
 1. Press INSERT in game, to open the GUI (console themed)
