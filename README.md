@@ -1,5 +1,4 @@
 # CSGO SURF BOT
-![image of cheat](https://pasteboard.co/JUmrkii.png)
 An Internal CSGO SURF BOT CHEAT DESIGNED FOR CSGO SURFING
 **FEATURES**
 1. Inventory Editor (skins/stickers/medals)
