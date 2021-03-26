@@ -13,10 +13,10 @@ An Internal CSGO SURF BOT CHEAT
 2. Method 2: Compile it yourself!
 
 **USAGE**
-Press INSERT in game, to open the GUI (console themed)
-Press F12 to self destruct the cheat (removes every trace)
+1. Press INSERT in game, to open the GUI (console themed)
+2. Press F12 to self destruct the cheat (removes every trace)
 
-**DISCLAIMER**
+**DISCLAIMER
 I AM NOT RESPONSIBLE FOR ANY BANS, NOR DO YOU HAVE PERMISSION TO SELL THIS OPEN SOURCE TOOL, THIS WAS MADE ENTIRELY FOR A GOOD CAUSE!! DO NOT RUIN IT BY USING IT AS AN UNFAIR ADVANTAGE AKA COMP SURF**
 
 - Vac undected since 2017
