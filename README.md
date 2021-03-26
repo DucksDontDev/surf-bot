@@ -4,7 +4,7 @@ An Internal CSGO SURF BOT CHEAT DESIGNED FOR CSGO SURFING
 1. Inventory Editor (skins/stickers/medals)
 2. Model Changer (able to make your pistol look like an AK47, etc)
 3. Auto Tool (ocassionally plays around with your knife & weapons, swinging them about and inspecting)
-4. Auto A & D with key disablers (semi surf bot)
+4. Auto A & D with key disablers (all you have to do is use your mouse to look where your going! semi surf bot)
 5. BHOP (automatically bhops with legit strafe for you)
 6. SURF BOT (automatically surfs for you, requiring no user action)
 
