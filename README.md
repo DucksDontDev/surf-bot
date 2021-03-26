@@ -1,5 +1,5 @@
 # CSGO SURF BOT
-An Internal CSGO SURF BOT CHEAT (VAC UNDETECTED SINCE 2017)
+An Internal CSGO SURF BOT CHEAT
  
 **FEATURES**
 1. Inventory Editor (skins/stickers/medals)
@@ -18,3 +18,6 @@ Press F12 to self destruct the cheat (removes every trace)
 
 **DISCLAIMER**
 I AM NOT RESPONSIBLE FOR ANY BANS, NOR DO YOU HAVE PERMISSION TO SELL THIS OPEN SOURCE TOOL, THIS WAS MADE ENTIRELY FOR A GOOD CAUSE!! DO NOT RUIN IT BY USING IT AS AN UNFAIR ADVANTAGE AKA COMP SURF**
+
+- Vac undected since 2017
+- Removed source code due to abuse :/
