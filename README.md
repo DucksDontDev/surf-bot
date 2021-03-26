@@ -6,6 +6,7 @@ An Internal CSGO SURF BOT CHEAT DESIGNED FOR CSGO SURFING
 3. Auto Tool (ocassionally plays around with your knife & weapons, swinging them about and inspecting)
 4. Auto A & D with key disablers (used for automatically surfing)
 5. BHOP (automatically bhops with legit strafe for you)
+6. SURF BOT (automatically surfs for you, requiring no user action)
 
 **INSTALLATION**
 1. Open CSGO and run the executable file
