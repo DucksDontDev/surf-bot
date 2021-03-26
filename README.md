@@ -1,6 +1,5 @@
 # CSGO SURF BOT
-An Internal CSGO SURF BOT CHEAT
- 
+An Internal CSGO SURF BOT CHEAT DESIGNED FOR CSGO SURFING
 **FEATURES**
 1. Inventory Editor (skins/stickers/medals)
 2. Model Changer (able to make your pistol look like an AK47, etc)
