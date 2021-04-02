@@ -19,5 +19,5 @@ or you can compile it yourself!
 **DISCLAIMER
 I AM NOT RESPONSIBLE FOR ANY BANS, NOR DO YOU HAVE PERMISSION TO SELL THIS OPEN SOURCE TOOL, THIS WAS MADE ENTIRELY FOR A GOOD CAUSE!! DO NOT RUIN IT BY USING IT AS AN UNFAIR ADVANTAGE AKA COMP SURF**
 
-- Vac undected since 2017
+- Vac undected since 2020
 - Removed source code due to recent abuse :/
